@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ed" green="ff" red="ff" type="rgb"/>
+    </Property>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1000, 582]"/>
+    </Property>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,47,0,0,3,-34"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPanel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ed" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Serif" size="14" style="1"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="170" y="0" width="810" height="550"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ed" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Dashboard">
+                <Property name="tabTitle" type="java.lang.String" value="Dashboard"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JSeparator" name="jSeparator2">
+              <Properties>
+                <Property name="orientation" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="-40" width="20" height="570"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="bb" green="db" red="ff" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="STXinwei" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Create Accounts"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="150" height="70"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="200" y="120" width="620" height="400"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable7">
+                  <Properties>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                        <BevelBorder/>
+                      </Border>
+                    </Property>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new DefaultTableModel(&#xa;    new Object[][]{}, // Empty at the start&#xa;    new String[]{&quot;Category&quot;, &quot;ID&quot;, &quot;Name&quot;, &quot;View&quot;} // Columns&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        return column == 3; // Only &quot;View&quot; button is clickable&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="// Add &quot;View&quot; button&#xa;// Add &quot;View&quot; button to last column&#xa;jTable7.getColumnModel().getColumn(3).setCellRenderer(new ButtonRenderer(&quot;View&quot;));&#xa;jTable7.getColumnModel().getColumn(3).setCellEditor(new ViewButtonEditor(new JCheckBox(), jTable7));"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable7.setRowHeight(30); // Set row height for better visibility&#xa;jTable7.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable7.getTableHeader().setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.BOLD, 14)); // Bold headers&#xa;&#xa;jScrollPane7.setViewportView(jTable7);&#xa;jTable7.getColumnModel().getColumn(0).setPreferredWidth(100);  // Category&#xa;jTable7.getColumnModel().getColumn(1).setPreferredWidth(80);   // ID&#xa;jTable7.getColumnModel().getColumn(2).setPreferredWidth(150);  // Name&#xa;jTable7.getColumnModel().getColumn(3).setPreferredWidth(100);  // View Button"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JButton" name="jButton3">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="fc" red="e8" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="STXinwei" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;Generate Ordered Items Frequency Report&lt;html&gt;"/>
+                <Property name="alignmentY" type="float" value="0.0"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="horizontalTextPosition" type="int" value="0"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="200" y="30" width="300" height="70"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton4">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="fc" red="e8" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="STXinwei" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;Transaction Amount Time Series Analysis&lt;html&gt;"/>
+                <Property name="alignmentY" type="float" value="0.0"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="horizontalTextPosition" type="int" value="0"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="510" y="30" width="290" height="70"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Serif" size="14" style="0"/>
+                </Property>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="5">
+                    <StringItem index="0" value="Role"/>
+                    <StringItem index="1" value="User"/>
+                    <StringItem index="2" value="Customer"/>
+                    <StringItem index="3" value="Vendor"/>
+                    <StringItem index="4" value="Runner"/>
+                  </StringArray>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="320" width="160" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Serif" size="14" style="0"/>
+                </Property>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="3">
+                    <StringItem index="0" value="Type"/>
+                    <StringItem index="1" value="Order History"/>
+                    <StringItem index="2" value="Transaction"/>
+                  </StringArray>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox2ActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="380" width="160" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane8">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="150" width="160" height="150"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea1">
+                  <Properties>
+                    <Property name="columns" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="20" type="code"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Serif" size="14" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="5" type="code"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="&quot; Search Bar &quot;" type="code"/>
+                    </Property>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                        <BevelBorder/>
+                      </Border>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="jTextArea1.getDocument().addDocumentListener(new javax.swing.event.DocumentListener() {&#xa;    @Override&#xa;    public void insertUpdate(javax.swing.event.DocumentEvent e) {&#xa;        filterTables(jTextArea1.getText());&#xa;    }&#xa;&#xa;    @Override&#xa;    public void removeUpdate(javax.swing.event.DocumentEvent e) {&#xa;        filterTables(jTextArea1.getText());&#xa;    }&#xa;&#xa;    @Override&#xa;    public void changedUpdate(javax.swing.event.DocumentEvent e) {&#xa;        filterTables(jTextArea1.getText());&#xa;    }&#xa;});"/>
+                    <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JTextArea()"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTextArea1.addFocusListener(new java.awt.event.FocusListener() {&#xa;    @Override&#xa;    public void focusGained(java.awt.event.FocusEvent e) {&#xa;        if (jTextArea1.getText().trim().equalsIgnoreCase(&quot;Search Bar&quot;)) {&#xa;            jTextArea1.setText(&quot;&quot;); // Clear text when clicked&#xa;            jTextArea1.setForeground(Color.BLACK); // Set text color to normal&#xa;        }&#xa;    }&#xa;&#xa;    @Override&#xa;    public void focusLost(java.awt.event.FocusEvent e) {&#xa;        if (jTextArea1.getText().trim().isEmpty()) {&#xa;            jTextArea1.setForeground(Color.GRAY); // Set placeholder color&#xa;            jTextArea1.setText(&quot;Search Bar&quot;); // Restore placeholder text&#xa;        }&#xa;    }&#xa;});"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JComboBox" name="jComboBox3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Serif" size="14" style="0"/>
+                </Property>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="3">
+                    <StringItem index="0" value="Filter"/>
+                    <StringItem index="1" value="Lowest to Highest"/>
+                    <StringItem index="2" value="Highest to Lowest"/>
+                  </StringArray>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox3ActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="440" width="160" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Users">
+                <Property name="tabTitle" type="java.lang.String" value="Users"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="820" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;UserID&quot;, &quot;RoleID&quot;, &quot;Username&quot;, &quot;Phone&quot;, &quot;Role&quot;, &quot;Pic&quot;, &quot;Edit&quot;, &quot;Delete&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Edit/Delete columns are editable&#xa;        return column == 6 || column == 7;&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="UserManager UserManager = new UserManager(FilePaths.USER_FILE);    // Load data into the table&#xa;loadUsersIntoTable(UserManager, jTable1);"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable1.setRowHeight(40); // Increase row height&#xa;jTable1.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable1.setGridColor(java.awt.Color.LIGHT_GRAY); // Light gray grid lines&#xa;&#xa;// Customize header appearance&#xa;    javax.swing.table.JTableHeader tableHeader = jTable1.getTableHeader();&#xa;    tableHeader.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.BOLD, 14)); // Bold font for header&#xa;    tableHeader.setBackground(java.awt.Color.DARK_GRAY); // Dark gray background&#xa;    tableHeader.setForeground(java.awt.Color.BLACK); // Black title text&#xa;    tableHeader.setOpaque(true); // Ensure custom styling is visible&#xa;&#xa;jTable1.getColumnModel().getColumn(0).setPreferredWidth(40);  // uid&#xa;jTable1.getColumnModel().getColumn(1).setPreferredWidth(40); //roleid&#xa;jTable1.getColumnModel().getColumn(2).setPreferredWidth(100); // Username&#xa;jTable1.getColumnModel().getColumn(3).setPreferredWidth(100); // phone&#xa;jTable1.getColumnModel().getColumn(4).setPreferredWidth(20);  // role&#xa;jTable1.getColumnModel().getColumn(5).setPreferredWidth(40); // pic&#xa;jTable1.getColumnModel().getColumn(6).setPreferredWidth(80);  // edit&#xa;jTable1.getColumnModel().getColumn(7).setPreferredWidth(80);  // delete&#xa;&#xa;    // Set custom renderers for &quot;Profile Picture&quot;, &quot;Edit&quot;, and &quot;Delete&quot; columns&#xa;    jTable1.getColumnModel().getColumn(5).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;        @Override&#xa;        public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;            // Render profile picture as a label with an icon&#xa;            javax.swing.JLabel label = new javax.swing.JLabel();&#xa;            if (value instanceof javax.swing.Icon) {&#xa;                label.setIcon((javax.swing.Icon) value);&#xa;            } else {&#xa;                label.setText(&quot;No Image&quot;);&#xa;            }&#xa;            label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);&#xa;            return label;&#xa;        }&#xa;    });&#xa;&#xa;    jTable1.getColumnModel().getColumn(6).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;        @Override&#xa;        public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;            // Render &quot;Edit&quot; as a button&#xa;            javax.swing.JButton editButton = new javax.swing.JButton(&quot;Edit&quot;);&#xa;            editButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;            return editButton;&#xa;        }&#xa;    });&#xa;&#xa;    jTable1.getColumnModel().getColumn(7).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;        @Override&#xa;        public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;            // Render &quot;Delete&quot; as a button&#xa;            javax.swing.JButton deleteButton = new javax.swing.JButton(&quot;Delete&quot;);&#xa;            deleteButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;            deleteButton.setBackground(java.awt.Color.RED);&#xa;            deleteButton.setForeground(java.awt.Color.WHITE);&#xa;            return deleteButton;&#xa;        }&#xa;    });&#xa;&#xa;    // For the &quot;Edit&quot; column at index 6:&#xa;    jTable1.getColumnModel().getColumn(6).setCellRenderer(new ButtonRenderer(&quot;Edit&quot;));&#xa;    jTable1.getColumnModel().getColumn(6).setCellEditor(new ButtonEditor(new javax.swing.JCheckBox(), jTable1, &quot;Edit&quot;));&#xa;&#xa;    // For the &quot;Delete&quot; column at index 6:&#xa;    jTable1.getColumnModel().getColumn(7).setCellRenderer(new ButtonRenderer(&quot;Delete&quot;));&#xa;    jTable1.getColumnModel().getColumn(7).setCellEditor(new ButtonEditor(new javax.swing.JCheckBox(), jTable1, &quot;Delete&quot;));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Customer">
+                <Property name="tabTitle" type="java.lang.String" value="Customer"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="830" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable2">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;ID&quot;, &quot;Username&quot;, &quot;Credit&quot;, &quot;Street&quot;, &quot;Poscode&quot;, &quot;State&quot;, &quot;Pic&quot;, &quot;Edit&quot;, &quot;Delete&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Edit/Delete columns are editable&#xa;        return column == 7 || column == 8;&#xa;    }&#xa;}&#xa;" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="loadCustomersIntoTable(CustomerManager, jTable2);"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable2.setRowHeight(40); // Increase row height&#xa;jTable2.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable2.setGridColor(java.awt.Color.LIGHT_GRAY); // Light gray grid lines&#xa;&#xa;&#xa;// Adjust column widths&#xa;jTable2.getColumnModel().getColumn(0).setPreferredWidth(40);  // CustomerID&#xa;jTable2.getColumnModel().getColumn(1).setPreferredWidth(100); // Username&#xa;jTable2.getColumnModel().getColumn(2).setPreferredWidth(60); // Credit&#xa;jTable2.getColumnModel().getColumn(3).setPreferredWidth(80);  // Street&#xa;jTable2.getColumnModel().getColumn(4).setPreferredWidth(50); // Poscode&#xa;jTable2.getColumnModel().getColumn(5).setPreferredWidth(80);  // State&#xa;jTable2.getColumnModel().getColumn(6).setPreferredWidth(40);  // Pic&#xa;jTable2.getColumnModel().getColumn(7).setPreferredWidth(80);  // Edit&#xa;jTable2.getColumnModel().getColumn(8).setPreferredWidth(80);  // Delete&#xa;&#xa;// Set custom renderers for &quot;Profile Picture&quot;, &quot;Edit&quot;, and &quot;Delete&quot; columns&#xa;jTable2.getColumnModel().getColumn(6).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render profile picture as a label with an icon&#xa;        javax.swing.JLabel label = new javax.swing.JLabel();&#xa;        if (value instanceof javax.swing.Icon) {&#xa;            label.setIcon((javax.swing.Icon) value);&#xa;        } else {&#xa;            label.setText(&quot;No Image&quot;);&#xa;        }&#xa;        label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);&#xa;        return label;&#xa;    }&#xa;});&#xa;&#xa;jTable2.getColumnModel().getColumn(7).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Edit&quot; as a button&#xa;        javax.swing.JButton editButton = new javax.swing.JButton(&quot;Edit&quot;);&#xa;        editButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        return editButton;&#xa;    }&#xa;});&#xa;&#xa;jTable2.getColumnModel().getColumn(8).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Delete&quot; as a button&#xa;        javax.swing.JButton deleteButton = new javax.swing.JButton(&quot;Delete&quot;);&#xa;        deleteButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        deleteButton.setBackground(java.awt.Color.RED);&#xa;        deleteButton.setForeground(java.awt.Color.WHITE);&#xa;        return deleteButton;&#xa;    }&#xa;});&#xa;&#xa;// For the &quot;Edit&quot; column at index 7:&#xa;jTable2.getColumnModel().getColumn(7).setCellRenderer(new ButtonRenderer(&quot;Edit&quot;));&#xa;jTable2.getColumnModel().getColumn(7).setCellEditor(new CustomerButtonEditor(new javax.swing.JCheckBox(), jTable2, &quot;Edit&quot;));&#xa;&#xa;// For the &quot;Delete&quot; column at index 8:&#xa;jTable2.getColumnModel().getColumn(8).setCellRenderer(new ButtonRenderer(&quot;Delete&quot;));&#xa;jTable2.getColumnModel().getColumn(8).setCellEditor(new CustomerButtonEditor(new javax.swing.JCheckBox(), jTable2, &quot;Delete&quot;));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel4">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Vendor">
+                <Property name="tabTitle" type="java.lang.String" value="Vendor"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="830" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable3">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;VendorID&quot;, &quot;Username&quot;, &quot;Stall Name&quot;, &quot;Revenue&quot;, &quot;Available&quot;, &quot;Pic&quot;, &quot;Edit&quot;, &quot;Delete&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Edit/Delete columns are editable&#xa;        return column == 6 || column == 7;&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="loadVendorsIntoTable(VendorManager, jTable3);"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable3.setRowHeight(40); // Increase row height&#xa;jTable3.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable3.setGridColor(java.awt.Color.LIGHT_GRAY); // Light gray grid lines&#xa;&#xa;&#xa;// Adjust column widths&#xa;jTable3.getColumnModel().getColumn(0).setPreferredWidth(40);  // vendorID&#xa;jTable3.getColumnModel().getColumn(1).setPreferredWidth(100); // Username&#xa;jTable3.getColumnModel().getColumn(2).setPreferredWidth(150); // Stall Name&#xa;jTable3.getColumnModel().getColumn(3).setPreferredWidth(60); // revenue&#xa;jTable3.getColumnModel().getColumn(4).setPreferredWidth(40);  // available&#xa;jTable3.getColumnModel().getColumn(5).setPreferredWidth(40); // pic&#xa;jTable3.getColumnModel().getColumn(6).setPreferredWidth(80); // Edit&#xa;jTable3.getColumnModel().getColumn(7).setPreferredWidth(80);  // Delete&#xa;&#xa;jTable3.getColumnModel().getColumn(5).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render profile picture as a label with an icon&#xa;        javax.swing.JLabel label = new javax.swing.JLabel();&#xa;        if (value instanceof javax.swing.Icon) {&#xa;            label.setIcon((javax.swing.Icon) value);&#xa;        } else {&#xa;            label.setText(&quot;No Image&quot;);&#xa;        }&#xa;        label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);&#xa;        return label;&#xa;    }&#xa;});&#xa;&#xa;jTable3.getColumnModel().getColumn(6).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render profile picture as a label with an icon&#xa;        javax.swing.JLabel label = new javax.swing.JLabel();&#xa;        if (value instanceof javax.swing.Icon) {&#xa;            label.setIcon((javax.swing.Icon) value);&#xa;        } else {&#xa;            label.setText(&quot;No Image&quot;);&#xa;        }&#xa;        label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);&#xa;        return label;&#xa;    }&#xa;});&#xa;&#xa;jTable3.getColumnModel().getColumn(7).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Edit&quot; as a button&#xa;        javax.swing.JButton editButton = new javax.swing.JButton(&quot;Edit&quot;);&#xa;        editButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        return editButton;&#xa;    }&#xa;});&#xa;&#xa;jTable3.getColumnModel().getColumn(7).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Delete&quot; as a button&#xa;        javax.swing.JButton deleteButton = new javax.swing.JButton(&quot;Delete&quot;);&#xa;        deleteButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        deleteButton.setBackground(java.awt.Color.RED);&#xa;        deleteButton.setForeground(java.awt.Color.WHITE);&#xa;        return deleteButton;&#xa;    }&#xa;});&#xa;&#xa;// For the &quot;Edit&quot; column at index 6:&#xa;jTable3.getColumnModel().getColumn(6).setCellRenderer(new ButtonRenderer(&quot;Edit&quot;));&#xa;jTable3.getColumnModel().getColumn(6).setCellEditor(new VendorButtonEditor(new javax.swing.JCheckBox(), jTable3, &quot;Edit&quot;));&#xa;&#xa;// For the &quot;Delete&quot; column at index 7:&#xa;jTable3.getColumnModel().getColumn(7).setCellRenderer(new ButtonRenderer(&quot;Delete&quot;));&#xa;jTable3.getColumnModel().getColumn(7).setCellEditor(new VendorButtonEditor(new javax.swing.JCheckBox(), jTable3, &quot;Delete&quot;));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel5">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Runner">
+                <Property name="tabTitle" type="java.lang.String" value="Runner"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="830" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable4">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;RunnerID&quot;, &quot;Username&quot;, &quot;Revenue&quot;, &quot;pic&quot;, &quot;Edit&quot;, &quot;Delete&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Edit/Delete columns are editable&#xa;        return column == 4 || column == 5;&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="loadRunnersIntoTable(RunnerManager, jTable4);"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable4.setRowHeight(40); // Increase row height&#xa;jTable4.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable4.setGridColor(java.awt.Color.LIGHT_GRAY); // Light gray grid lines&#xa;&#xa;// Adjust column widths&#xa;jTable4.getColumnModel().getColumn(0).setPreferredWidth(40);  // runnerID&#xa;jTable4.getColumnModel().getColumn(1).setPreferredWidth(100); // Username&#xa;jTable4.getColumnModel().getColumn(2).setPreferredWidth(80); // revenue&#xa;jTable4.getColumnModel().getColumn(3).setPreferredWidth(40); // pic&#xa;jTable4.getColumnModel().getColumn(4).setPreferredWidth(80);  // Edit&#xa;jTable4.getColumnModel().getColumn(5).setPreferredWidth(80);  // Delete&#xa;&#xa;jTable4.getColumnModel().getColumn(3).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render profile picture as a label with an icon&#xa;        javax.swing.JLabel label = new javax.swing.JLabel();&#xa;        if (value instanceof javax.swing.Icon) {&#xa;            label.setIcon((javax.swing.Icon) value);&#xa;        } else {&#xa;            label.setText(&quot;No Image&quot;);&#xa;        }&#xa;        label.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);&#xa;        return label;&#xa;    }&#xa;});&#xa;&#xa;jTable4.getColumnModel().getColumn(4).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Edit&quot; as a button&#xa;        javax.swing.JButton editButton = new javax.swing.JButton(&quot;Edit&quot;);&#xa;        editButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        return editButton;&#xa;    }&#xa;});&#xa;&#xa;jTable4.getColumnModel().getColumn(5).setCellRenderer(new javax.swing.table.DefaultTableCellRenderer() {&#xa;    @Override&#xa;    public java.awt.Component getTableCellRendererComponent(javax.swing.JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {&#xa;        // Render &quot;Delete&quot; as a button&#xa;        javax.swing.JButton deleteButton = new javax.swing.JButton(&quot;Delete&quot;);&#xa;        deleteButton.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 12));&#xa;        deleteButton.setBackground(java.awt.Color.RED);&#xa;        deleteButton.setForeground(java.awt.Color.WHITE);&#xa;        return deleteButton;&#xa;    }&#xa;});&#xa;&#xa;// For the &quot;Edit&quot; column at index 4:&#xa;jTable4.getColumnModel().getColumn(4).setCellRenderer(new ButtonRenderer(&quot;Edit&quot;));&#xa;jTable4.getColumnModel().getColumn(4).setCellEditor(new RunnerButtonEditor(new javax.swing.JCheckBox(), jTable4, &quot;Edit&quot;));&#xa;&#xa;// For the &quot;Delete&quot; column at index 5:&#xa;jTable4.getColumnModel().getColumn(5).setCellRenderer(new ButtonRenderer(&quot;Delete&quot;));&#xa;jTable4.getColumnModel().getColumn(5).setCellEditor(new RunnerButtonEditor(new javax.swing.JCheckBox(), jTable4, &quot;Delete&quot;));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Order History">
+                <Property name="tabTitle" type="java.lang.String" value="Order History"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="830" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable5">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;ID&quot;, &quot;Username&quot;, &quot;Vendor ID&quot;, &quot;Order Type&quot;, &quot;Date&quot;, &quot;Time&quot;, &quot;Amount&quot;, &quot;Status&quot;, &quot;Generate Receipt&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Edit/Delete columns are editable&#xa;        return column == 7 || column == 8;&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="loadTransactionsIntoTable(jTable5);&#xa;&#xa;// Add Mouse Listener to JTable&#xa;jTable5.addMouseListener(new java.awt.event.MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(java.awt.event.MouseEvent evt) {&#xa;        int row = jTable5.getSelectedRow();&#xa;        if (row &gt;= 0) {&#xa;            String selectedOrderID = jTable5.getValueAt(row, 0).toString();&#xa;            new Receipt(selectedOrderID).setVisible(true);&#xa;        }&#xa;    }&#xa;});"/>
+                    <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JTable()"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jTable5.setRowHeight(40); // Increase row height&#xa;jTable5.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14)); // Set modern font&#xa;jTable5.setGridColor(java.awt.Color.LIGHT_GRAY); // Light gray grid lines&#xa;&#xa;// Adjust column widths&#xa;jTable5.getColumnModel().getColumn(0).setPreferredWidth(60);  // ID&#xa;jTable5.getColumnModel().getColumn(1).setPreferredWidth(100); // Username&#xa;jTable5.getColumnModel().getColumn(2).setPreferredWidth(40);  // Vendor ID&#xa;jTable5.getColumnModel().getColumn(3).setPreferredWidth(80); // Order Type&#xa;jTable5.getColumnModel().getColumn(4).setPreferredWidth(100); // Date&#xa;jTable5.getColumnModel().getColumn(5).setPreferredWidth(80);  // Time&#xa;jTable5.getColumnModel().getColumn(6).setPreferredWidth(60);  // Amount&#xa;jTable5.getColumnModel().getColumn(7).setPreferredWidth(100); // Status&#xa;jTable5.getColumnModel().getColumn(8).setPreferredWidth(150); // Generate Receipt&#xa;&#xa;// Add a button for &quot;Generate Receipt&quot; at index 8&#xa;jTable5.getColumnModel().getColumn(8).setCellRenderer(new ButtonRenderer(&quot;Generate Receipt&quot;));&#xa;jTable5.getColumnModel().getColumn(8).setCellEditor(new RunnerButtonEditor(new javax.swing.JCheckBox(), jTable5, &quot;Generate Receipt&quot;));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel7">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Transactions">
+                <Property name="tabTitle" type="java.lang.String" value="Transactions"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="830" height="530"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable6">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="new javax.swing.table.DefaultTableModel(&#xa;    new Object[][]{}, // Empty initial data&#xa;    new String[]{&quot;Payment ID&quot;, &quot;Username&quot;, &quot;Amount&quot;, &quot;Date&quot;, &quot;Time&quot;, &quot;Status&quot;, &quot;Accept&quot;, &quot;Decline&quot;}&#xa;) {&#xa;    @Override&#xa;    public boolean isCellEditable(int row, int column) {&#xa;        // Only Accept/Decline buttons should be clickable&#xa;        return column == 6 || column == 7;&#xa;    }&#xa;}" type="code"/>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="loadPaymentsIntoTable(jTable6);"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="// Set row height and font styling&#xa;jTable6.setRowHeight(40);&#xa;jTable6.setFont(new java.awt.Font(&quot;Segoe UI&quot;, java.awt.Font.PLAIN, 14));&#xa;jTable6.setGridColor(java.awt.Color.LIGHT_GRAY);&#xa;&#xa;// Adjust column widths&#xa;jTable6.getColumnModel().getColumn(0).setPreferredWidth(40);  // Payment ID&#xa;jTable6.getColumnModel().getColumn(1).setPreferredWidth(100); // Username&#xa;jTable6.getColumnModel().getColumn(2).setPreferredWidth(80); // Amount&#xa;jTable6.getColumnModel().getColumn(3).setPreferredWidth(120); // Date&#xa;jTable6.getColumnModel().getColumn(4).setPreferredWidth(80);  // Time&#xa;jTable6.getColumnModel().getColumn(5).setPreferredWidth(80); // Status&#xa;jTable6.getColumnModel().getColumn(6).setPreferredWidth(100); // Accept Button&#xa;jTable6.getColumnModel().getColumn(7).setPreferredWidth(100); // Decline Button&#xa;&#xa;// Add buttons for &quot;Accept&quot; and &quot;Decline&quot;&#xa;&#xa;String adminID = SessionManager.getInstance().getSessionID(); // Replace with your actual session retrieval&#xa;&#xa;// Set Accept button&#xa;jTable6.getColumnModel().getColumn(6).setCellRenderer(new ButtonRenderer(&quot;Accept&quot;));&#xa;jTable6.getColumnModel().getColumn(6).setCellEditor(new PaymentButtonEditor(new javax.swing.JCheckBox(), jTable6, &quot;Accept&quot;, adminID));&#xa;&#xa;// Set Decline button&#xa;jTable6.getColumnModel().getColumn(7).setCellRenderer(new ButtonRenderer(&quot;Decline&quot;));&#xa;jTable6.getColumnModel().getColumn(7).setCellEditor(new PaymentButtonEditor(new javax.swing.JCheckBox(), jTable6, &quot;Decline&quot;, adminID));"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel8">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ed" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="170" height="560"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel9">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="db" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="140" width="170" height="40"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="dashboardButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-dashboard-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Dashboard"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dashboardButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel10">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="db" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="200" width="170" height="160"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="registrationButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-registration-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;Users&lt;html&gt;"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="registrationButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="runnerButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-registration-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Runner"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="runnerButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="120" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="vendorButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-registration-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Vendor"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="vendorButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="80" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="customerButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-registration-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Customers"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="customerButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="40" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="transactionButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="db" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="SansSerif" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="56" green="37" red="10" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/foodhub/icon/icons8-transaction-24.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Order History"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                <BevelBorder/>
+              </Border>
+            </Property>
+            <Property name="contentAreaFilled" type="boolean" value="false"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="transactionButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="380" width="170" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="transactionButton">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="db" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="SansSerif" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="56" green="37" red="10" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/foodhub/icon/icons8-transaction-24.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Transactions"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                <BevelBorder/>
+              </Border>
+            </Property>
+            <Property name="contentAreaFilled" type="boolean" value="false"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="transactionButtonActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="420" width="170" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel12">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="db" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="490" width="170" height="70"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="logoutButton">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SansSerif" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="56" green="37" red="10" type="rgb"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodhub/icon/icons8-log-out-24.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Sign Out"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder/>
+                  </Border>
+                </Property>
+                <Property name="contentAreaFilled" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="logoutButtonActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="-10" y="0" width="180" height="60"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel13">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="fc" red="e8" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="380" width="170" height="80"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="STSong" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Welcome, Administrator"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="90" width="150" height="20"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/foodhub/icon/icons8-burger-48.png"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="50" height="70"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="FoodHub"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="60" y="35" width="100" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="120" width="170" height="10"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel11">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="bb" green="db" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="150" width="170" height="40"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="registrationButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="SansSerif" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="56" green="37" red="10" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/foodhub/icon/icons8-registration-24.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Users"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="null"/>
+            </Property>
+            <Property name="contentAreaFilled" type="boolean" value="false"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="registrationButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="4" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
