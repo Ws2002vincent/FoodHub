@@ -1,0 +1,33 @@
+OR001 | Hiroshi Tanaka | V16 | Dine-in | [F1:2:25.8, F4:1:13.0, F6:1:15.0, F8:3:18.0] | 31-12-2023 10:00AM | 0.0 | 71.8 | Completed | True
+OR002 | Yuki Nakamura | V17 | Takeaway | [F15:1:15.0, F16:1:5.0] | 09-01-2025 10:15AM | 0.0 | 20.0 | Completed | True
+OR003 | Kenji Yoshida | V18 | Delivery | [F18:1:12.0, F24:1:6.0] | 09-01-2025 10:30AM | 5.0 | 23.0 | Completed | True
+OR004 | Rina Kato | V17 | Delivery | [F10:1:12.0, F11:1:10.0] | 09-01-2025 10:45AM | 5.0 | 27.0 | Completed | True
+OR005 | Taro Imai | V18 | Takeaway | [F22:2:14.0] | 09-01-2025 11:00AM | 0.0 | 14.0 | Completed | True
+OR006 | Shoji Kobayashi | V16 | Takeaway | [F6:1:15.0, F8:1:6.0] | 31-01-2025 11:15AM | 0.0 | 21.0 | Ready | True
+OR007 | Mei Sato | V16 | Delivery | [F4:1:13] | 02-01-2025 11:30AM | 5.0 | 18.0 | Cancelled | False
+OR008 | Yuka Kuroda | V16 | Takeaway | [F7:1:10] | 03-01-2025 11:45AM | 0.0 | 10.0 | Completed | True
+OR009 | Naoki Fujita | V17 | Dine-in | [F9:1:18.0, F13:1:14.0] | 09-01-2025 12:00PM | 0.0 | 32.0 | Cancelled | False
+OR010 | Emiko Watanabe | V18 | Dine-in | [F17:1:14.0, F20:1:18.0] | 09-01-2025 12:15PM | 0.0 | 32.0 | Completed | True
+OR011 | Takashi Suzuki | V16 | Delivery | [F1:1:12.9, F8:2:12.0] | 04-01-2025 12:30PM | 5.0 | 29.9 | Completed | True
+OR012 | Yuka Kuroda | V17 | Takeaway | [F15:1:15.0, F14:1:16.0] | 09-01-2025 12:45PM | 0.0 | 31.0 | Completed | True
+OR013 | Taro Imai | V18 | Dine-in | [F23:1:10.0, F21:2:16.0] | 09-03-2025 01:00PM | 0.0 | 26.0 | Completed | True
+OR014 | Kenta Suzuki | V16 | Dine-in | [F2:1:14.0, F5:1:12.0] | 05-01-2025 01:15PM | 0.0 | 26.0 | Cancelled | False
+OR015 | Yuji Matsumoto | V17 | Delivery | [F12:2:16.0, F10:1:12.0] | 09-01-2025 01:30PM | 5.0 | 33.0 | Completed | True
+OR016 | Naoki Fujita | V18 | Takeaway | [F24:2:12.0] | 09-01-2025 01:45PM | 0.0 | 12.0 | Completed | True
+OR017 | Hiroshi Tanaka | V16 | Delivery | [F3:2:16.0, F6:1:15.0] | 21-01-2025 02:00PM | 5.0 | 36.0 | Cancelled | False
+OR018 | Aiko Takahashi | V17 | Takeaway | [F13:1:14.0, F9:1:18.0] | 09-01-2025 02:15PM | 0.0 | 32.0 | Completed | True
+OR019 | Taro Imai | V18 | Dine-in | [F19:1:16.0, F20:1:18.0] | 09-01-2025 02:30PM | 0.0 | 34.0 | Cancelled | False
+OR020 | Sota Fujimoto | V16 | Takeaway | [F8:1:6.0, F7:2:20.0] | 21-02-2025 02:45PM | 0.0 | 26.0 | Completed | True
+OR021 | Hiroko Nagai | V17 | Delivery | [F11:1:10.0, F12:3:24.0] | 09-02-2025 03:00PM | 5.0 | 39.0 | Completed | True
+OR022 | Takumi Yamada | V18 | Dine-in | [F22:1:7.0, F23:1:10.0, F24:1:6.0] | 09-02-2025 03:15PM | 0.0 | 23.0 | Completed | True
+OR023 | Aiko Takahashi | V16 | Takeaway | [F4:1:13.0, F1:2:25.8] | 23-03-2025 03:30PM | 0.0 | 38.8 | Preparing | True
+OR024 | Shoji Kobayashi | V17 | Takeaway | [F9:1:18.0, F15:1:15.0] | 09-02-2025 03:45PM | 0.0 | 33.0 | Completed | True
+OR025 | Naoki Fujita | V18 | Delivery | [F20:1:18.0, F17:1:14.0] | 09-02-2025 04:00PM | 5.0 | 37.0 | Completed | True
+OR026 | Mei Sato | V16 | Dine-in | [F2:1:14.0, F5:1:12.0, F7:1:10.0] | 23-02-2025 04:15PM | 0.0 | 36.0 | Ready | True
+OR027 | Hiroshi Tanaka | V17 | Delivery | [F10:1:12.0, F13:2:28.0] | 09-02-2025 04:30PM | 5.0 | 45.0 | Completed | True
+OR028 | Naoki Fujita | V18 | Takeaway | [F21:2:16.0, F24:1:6.0] | 09-02-2025 04:45PM | 0.0 | 22.0 | Completed | True
+OR029 | Kazuki Ishida | V16 | Dine-in | [F3:2:16.0, F1:1:12.9] | 23-02-2025 05:00PM | 0.0 | 28.9 | Pending | False
+OR030 | Yuka Kuroda | V17 | Delivery | [F15:1:15.0, F11:1:10.0] | 09-03-2025 05:15PM | 5.0 | 30.0 | Completed | True
+OR031 | 1 | wenbin | V19 | Dine_In | [F24:1:6.00] | 15-02-2025 09:43pm | 0.0 | 6.00 | Pending | True
+OR032 | 1 | wenbin | V18 | Dine_In | [F17:1:14.00, F18:1:12.00] | 15-02-2025 09:43pm | 0.0 | 26.00 | Pending | True
+OR033 | 1 | wenbin | V17 | Dine_In | [F9:1:18.00] | 15-02-2025 09:43pm | 0.0 | 18.00 | Pending | True

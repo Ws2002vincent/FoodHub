@@ -1,0 +1,3 @@
+59okC2 | F1 | Nasi Goreng | 6 | 72.00 | V1 | 
+C2 | F1 | Nasi Goreng | 4 | 48.00 | V1 | 
+C2 | F1 | Nasi Goreng | 5 | 60.00 | V1 | 

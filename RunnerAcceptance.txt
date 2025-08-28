@@ -1,0 +1,3 @@
+RA01 | OR003 | R16 | Refuse
+RA02 | OR003 | R16 | Refuse
+RA03 | OR004 | R16 | Refuse
