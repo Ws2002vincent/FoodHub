@@ -1,0 +1,24 @@
+V1 | Jacob | Jacob's Burger | 1235.69 | false | default.png | It is V1.
+V2 | Sarah | Sarah's Cafe | 2875.12 | true | default.png | It is V2.
+V3 | Michael | Michael's Pizza | 4520.45 | true | default.png | It is V3.
+V4 | Emma | Emma's Bakery | 1423.87 | true | default.png | It is V4.
+V5 | William | William's Steakhouse | 15987.23 | true | default.png | It is V5.
+V6 | Olivia | Olivia's Vegan Delights | 3109.56 | false | default.png | It is V6.
+V7 | James | James' BBQ | 8472.81 | true | default.png | It is V7.
+V8 | Ava | Ava's Sushi | 1621.43 | true | default.png | It is V8.
+V9 | Benjamin | Benjamin's Coffee | 2899.77 | true | default.png | It is V9.
+V10 | Mia | Mia's Smoothies | 2510.62 | true | default.png | It is V10.
+V11 | Lucas | Lucas' Grill | 1456.90 | true | default.png | It is V11.
+V12 | Sophia | Sophia's Ice Cream | 9332.11 | false | default.png | It is V12.
+V13 | Alexander | Alexander's Deli | 2487.65 | true | default.png | It is V13.
+V14 | Isabella | Isabella's Tacos | 15530.42 | true | default.png | It is V14.
+V15 | Ethan | Ethan's Pasta | 14102.08 | true | default.png | It is V15.
+V16 | Penang | Penang's Stall | 0.00 |  true | default.png | It is V16.
+V17 | James | James's Stall | 0.00 | false | default.png | It is V17.
+V18 | UncleSoon | UncleSoon's Stall | 0.00 | true | default.png | It is V18.
+V19 | sapuany | sapuany's Stall | 0.00 | true | default.png | It is V19.
+V20 | qwerty | qwerty's Stall | 0.00 | true | default.png | It is V20.
+V21 | wenbinv | wenbinv's Stall | 0.00 |  true | default.png | It is V21.
+V22 | MakanMalaysia | MakanMalaysia's Stall | 0.00 |  true | default.png | It is V22
+V23 | Delights | Delights's Stall | 0.00 | true | default.png | It is V23
+V24 | Steakhouse | Steakhouse's Stall | 0.00 |  true | default.png | It is V24

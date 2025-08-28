@@ -1,0 +1,20 @@
+N1 | V22 | wenbin | Order Status | Your order OR001 is being prepared. Thank you for your patience! | 20-02-2025 02:55pm | Unread
+N2 | V22 | wenbin | Order Status | Good news! Your order OR001 is ready for pickup/delivery. | 20-02-2025 02:55pm | Unread
+N3 | V22 | wenbin | Order Status | Thank you! Your order OR001 has been successfully completed. | 20-02-2025 02:58pm | Unread
+N4 | U3 | wenbin | Payment Status | Your payment has been accepted. | 21-02-2025 05:00AM | Unread
+N5 | null | wenbin | Payment Status | Your payment has been declined. | 21-02-2025 06:24PM | Unread
+N6 | V1 | C2 | Cancel Order | Due to shortage of ingredients, we have to cancel your order, deeply apologize for inconveniences. | 01-01-2025 10:00AM | Unread
+N7 | M1 | V22 | Deleted Food Items | Your food's image contained content that greatly violated our policy. | 01-01-2025 10:00AM | Unread
+N8 | V1 | C3 | Late Delivery | Unfortunately, your order is delayed due to unforeseen circumstances. We apologize for the wait. | 01-01-2025 10:00AM | Unread
+N9 | M2 | V23 | Incorrect Address | The address provided seems to be incorrect, and we were unable to deliver your order. | 01-01-2025 10:00AM | Unread
+N10 | V2 | C1 | Refund Issued | We have processed a refund for your order as per your request. Please check your account. | 01-01-2025 10:00AM | Unread 
+N11 | M3 | V24 | Missing Items | We regret to inform you that some items were missing from your order. Please contact us for resolution. | 01-01-2025 10:00AM | Unread 
+N12 | C1 | A2 | Payment Declined | Your payment was declined. Kindly check your payment method and try again. | 01-01-2025 10:00AM | Unread 
+N13 | M1 | V22 | Expired Coupons | The coupon you applied has expired. Please use a valid one for your next order. | 01-01-2025 10:30AM | Read
+N14 | V2 | C3 | Wrong Order Delivered | We delivered the wrong order by mistake. Please contact us for a resolution. | 01-01-2025 10:00AM | Unread
+N15 | M2 | V23 | Technical Error | We experienced a technical error while processing your order. We are working to resolve this immediately. | 14-01-2025 10:00AM | Unread
+N16 | C1 | V22 | New Order | Ding-ding! New order from Hiroshi Tanaka has been placed. Please review the order details to proceed. | 16-01-2025 12:30PM | Unread
+N17 | V22 | Mei Sato | Order Status | Good news! Your order OR026 is ready for pickup/delivery. | 21-01-2025 07:22PM | Unread
+N18 | V22 | Kazuki Ishida | Order Status | Your order OR029 is being prepared. Thank you for your patience! | 21-01-2025 11:18PM | Unread
+N19 | V22 | Hiroshi Tanaka | Order Status | Your order OR017 is being prepared. Thank you for your patience! | 21-02-2025 11:14PM | Unread
+N20 | V22 | Hiroshi Tanaka | Order Status | Good news! Your order OR017 is ready for pickup/delivery. | 21-02-2025 11:14PM | Unread

@@ -1,0 +1,12 @@
+RN1 | R16 | Nonoya | Your delivery order has been cancelled | 01-01-2025 10:00AM
+RN2 | R16 | Yuji Matsumoto | Thank you! Your delivery order OR015 has been successfully delivered. | 20-02-2025 10:43PM
+RN3 | R16 | Rina Kato | Your delivery order OR004 has being picked-up. Thank you for your patience! | 20-02-2025 11:13PM
+RN4 | R16 | Rina Kato | Thank you! Your delivery order OR004 has been successfully delivered. | 20-02-2025 11:13PM
+RN5 | R16 | Yuji Matsumoto | Your delivery order OR015 has being picked-up. Thank you for your patience! | 20-02-2025 11:22PM
+RN6 | R16 | Yuji Matsumoto | Thank you! Your delivery order OR015 has been successfully delivered. | 20-02-2025 11:22PM
+RN7 | R16 | Hiroko Nagai | We're sorry! Your delivery order OR021 has been cancelled. Please contact our customer service for more information. | 20-02-2025 11:25PM
+RN8 | R16 | Yuka Kuroda | We're sorry! Your delivery order OR031 has been cancelled. Please contact our customer service for more information. | 21-02-2025 12:14AM
+RN9 | R16 | Yuka Kuroda | Your delivery order OR032 has being picked-up. Thank you for your patience! | 21-02-2025 12:26AM
+RN10 | R16 | Yuka Kuroda | Thank you! Your delivery order OR032 has been successfully delivered. | 21-02-2025 12:27AM
+RN11 | R16 | Yuka Kuroda | We're sorry! Your delivery order OR034 has been cancelled. Please contact our customer service for more information. | 21-02-2025 01:01AM
+RN12 | R17 | Kenji Yoshida | We're sorry! Your delivery order OR003 has been cancelled. Please contact our customer service for more information. | 21-02-2025 11:23PM

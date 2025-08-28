@@ -1,0 +1,4 @@
+C1 | wenbin | F8 | Cendol | 1 | 6.0 | 6.0 | V22 | cendol.jpg | Placed_Order
+C2 | wenbin | F20 | Beef Stew with Mashed Potatoes | 1 | 18.0 | 18.0 | V24 | beefStewMashedPotatoes.jpg | Placed_Order
+C3 | wenbin | F5 | Cucur Udang | 1 | 12.0 | 12.0 | V22 | cucurUdang.jpg | Placed_Order
+C4 | wenbin | F17 | Cheeseburger with Fries | 1 | 14.0 | 14.0 | V24 | cheeseburgerFries.jpg | Placed_Order

@@ -1,0 +1,20 @@
+CM1 | jason | booking issues | I'm having trouble when entering booking where there's seems to be a bug in the system | Hi there! we have received your complaints and will start fixing it soon, thanks
+CM2 | sarah | product services | The quality of the product I received is not what I expected, it's damaged. | Noted with thanks we scammed your honey anyway
+CM3 | mike | wait time | I waited over an hour for customer service to respond, very frustrating. | null
+CM4 | anna | delivery | My order was delayed for two days, and no one informed me about it. | We apologize for the delay, we are working to improve our delivery system. Thank you for your patience.
+CM5 | mark | login issues | I keep getting an error when I try to log into my account. | null
+CM6 | emily | account problems | I can't update my account details, the fields don't save. |  Nevermind, just don't update your details
+CM7 | lucas | vendors | The vendor I purchased from didn’t follow through with the agreed terms. | We're looking into this issue, thanks for your feedback.
+CM8 | claire | runners | The runner delivered my package to the wrong address. | We are investigating this issue and will ensure it doesn't happen again.
+CM9 | charlie | system issues | The website crashes every time I try to complete a purchase. |This is pretty great
+CM10 | olivia | sign up issues | I can't create an account, the system keeps showing an error message. | null
+CM11 | ben | booking issues | I tried to change my booking, but the system didn’t allow me. | We are aware of the issue and will resolve it soon.
+CM12 | diana | product services | The product I bought doesn’t match the description. | We apologize for the inconvenience, we're working on resolving this.
+CM13 | ethan | wait time | I had to wait for 30 minutes just to speak to someone. | null
+CM14 | hannah | delivery | My order is missing some items, please help! | We apologize for the oversight and will send the missing items right away.
+CM15 | ryan | login issues | I can’t reset my password, the link keeps expiring. | null
+CM16 | kate | account problems | I can’t access my previous orders, my account is showing as empty. | null
+CM17 | james | product services | The product was fine, but the packaging was damaged. | We're sorry for the packaging issue, we will improve this.
+CM18 | mia | vendors | The vendor took too long to respond to my inquiry. | We’ll make sure to follow up with the vendor and improve communication.
+CM19 | liam | runners | The runner was rude and unhelpful during delivery. | We apologize for the poor experience and will address this with the runner.
+CM20 | lily | system issues | The checkout process isn't working correctly, keeps rejecting my payment. | null

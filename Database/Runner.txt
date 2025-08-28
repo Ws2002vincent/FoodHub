@@ -1,0 +1,18 @@
+R1 | Israel | 123.65 | default.png
+R2 | Yosef | 548.20 | default.png
+R3 | Miriam | 745.80 | default.png
+R4 | Isaac | 321.45 | default.png
+R5 | Rachel | 210.50 | default.png
+R6 | Eliyah | 654.90 | default.png
+R7 | Shimon | 908.15 | default.png
+R8 | Leah | 145.00 | default.png
+R9 | Ezra | 1230.75 | default.png
+R10 | Hannah | 760.30 | default.png
+R11 | Caleb | 502.25 | default.png
+R12 | Ruth | 430.00 | default.png
+R13 | Jonah | 800.90 | default.png
+R14 | Rebekah | 562.40 | default.png
+R15 | Aaron | 315.60 | default.png
+R16 | runner | 0.00
+R17 | iu | 0.00 | default.png
+R18 | wenbinr | 0.00 | default.png

@@ -1,0 +1,30 @@
+FB001 | OR001 | V22 | Hiroshi Tanaka | 5 | The dine-in experience was exceptional! The food was perfectly cooked and beautifully presented. Great atmosphere and attentive service.
+FB002 | OR002 | V23 | Yuki Nakamura | 5 | The food was amazing! Everything was fresh and packed neatly. Will definitely order again.
+FB003 | OR003 | V24 | Kenji Yoshida | 4 | Delivery was quick, and the food was tasty. However, the portion size could be a bit larger.
+FB004 | OR004 | V23 | Rina Kato | 5 | Fantastic service! The food was delicious, and the delivery person was very polite.
+FB005 | OR005 | V24 | Taro Imai | 3 | Food was okay, but the presentation was lacking. Expected better for the price.
+FB006 | OR006 | V22 | Shoji Kobayashi | 5 | The meal was excellent, and the ordering process was seamless. Highly recommend!
+FB007 | OR007 | V22 | Mei Sato | 3 | The order was canceled, but the staff was helpful in explaining the reason. Disappointed but appreciate the support.
+FB008 | OR008 | V22 | Yuka Kuroda | 4 | Great food and decent service, though the waiting time could be reduced for takeaways.
+FB009 | OR009 | V23 | Naoki Fujita | 2 | Disappointed with the cancellation of my order. I was really looking forward to trying the food.
+FB010 | OR010 | V23 | Emiko Watanabe | 5 | The dine-in experience was amazing! The food was fresh, and the staff was very courteous.
+FB011 | OR011 | V22 | Takashi Suzuki | 5 | Fast delivery and excellent food quality! I will definitely order again.
+FB012 | OR012 | V23 | Yuka Kuroda | 4 | Loved the food, but it would have been better if it was packed a bit more carefully.
+FB013 | OR013 | V24 | Taro Imai | 4 | The dine-in experience was good! The food was tasty, but the portion size could have been a bit larger. Still, overall a pleasant experience.
+FB014 | OR014 | V22 | Kenta Suzuki | 2 | My order was canceled. The staff apologized, but it was still inconvenient.
+FB015 | OR015 | V23 | Yuji Matsumoto | 5 | Outstanding delivery service and delicious food! I’m very impressed.
+FB016 | OR016 | V24 | Naoki Fujita | 4 | Quick service and good food. The portion size could have been slightly larger.
+FB017 | OR017 | V22 | Hiroshi Tanaka | 5 | Excellent delivery service and tasty meals! Worth every penny.
+FB018 | OR018 | V23 | Aiko Takahashi | 5 | Fantastic food and fast service! I’m really satisfied with my takeaway.
+FB019 | OR019 | V23 | Taro Imai | 2 | My order was canceled. I hope the next time, I can enjoy the food I ordered.
+FB020 | OR020 | V22 | Sota Fujimoto | 4 | The takeaway process was smooth, but the waiting time could have been shorter.
+FB021 | OR021 | V23 | Hiroko Nagai | 5 | Exceptional delivery service! The food was delicious, and it arrived on time.
+FB022 | OR022 | V24 | Takumi Yamada | 5 | Great food and wonderful dine-in experience. I’ll definitely visit again!
+FB023 | OR023 | V22 | Aiko Takahashi | 2 | My order got canceled, and it was disappointing. I hope for better service next time.
+FB024 | OR024 | V23 | Shoji Kobayashi | 4 | Good food and decent takeaway service. Packing could be improved.
+FB025 | OR025 | V24 | Naoki Fujita | 5 | Timely delivery and excellent food! Very satisfied with the service.
+FB026 | OR026 | V22 | Mei Sato | 5 | The dine-in experience was fantastic! Delicious food and friendly staff.
+FB027 | OR027 | V23 | Hiroshi Tanaka | 5 | Quick delivery and amazing food! The presentation was excellent too.
+FB028 | OR028 | V24 | Naoki Fujita | 4 | The food was good, but I felt the portion size could be better for the price.
+FB029 | OR029 | V22 | Kazuki Ishida | 5 | Fantastic dine-in experience! The staff was attentive, and the food was great.
+FB030 | OR030 | V23 | Yuka Kuroda | 5 | Wonderful delivery service! The food was fresh and packed very well.FB031 | OR006 | V16 | wenbin | 3 | awd

@@ -1,0 +1,17 @@
+C1 | Hiroshi Tanaka | 1500.78 | 25 Jalan Mutiara | 50000 | Kuala Lumpur | default.png
+C2 | Yuki Nakamura | 2200.50 | 42 Jalan Sultan, Johor Bahru | 80000 | Johor | default.png
+C3 | Takashi Suzuki | 1800.30 | 56 Jalan Bukit, Penang | 10200 | Penang | default.png
+C4 | Mei Sato | 2700.45 | 14 Jalan Masjid, Melaka | 75000 | Melaka | default.png
+C5 | Kenji Yoshida | 1200.80 | 10 Jalan Serdang, Selangor | 43000 | Selangor | default.png
+C6 | Haruto Yamamoto | 3100.60 | 27 Jalan Sungai, Kedah | 05100 | Kedah | default.png
+C7 | Rina Kato | 1500.95 | 60 Jalan Senai, Perak | 30000 | Perak | default.png
+C8 | Yuji Matsumoto | 1900.70 | 77 Jalan Raya, Terengganu | 20000 | Terengganu | default.png
+C9 | Aiko Takahashi | 2100.80 | 32 Jalan Karamunsing, Sabah | 88000 | Sabah | default.png
+C10 | Shoji Kobayashi | 1700.20 | 12 Jalan Seberang, Sarawak | 93300 | Sarawak | default.png
+C11 | Naoki Fujita | 1500.30 | 21 Jalan Dato Onn, Pahang | 25000 | Pahang | default.png
+C12 | Emiko Watanabe | 2500.90 | 55 Jalan Bukit Jelutong, Negeri Sembilan | 70000 | Negeri Sembilan | default.png
+C13 | Taro Imai | 1600.60 | 22 Jalan Tanjung, Kelantan | 15300 | Kelantan | default.png
+C14 | Yuka Kuroda | 2200.40 | 18 Jalan Jalan Duta, Putrajaya | 62000 | Putrajaya (Federal Territory) | default.png
+C15 | Kazuki Ishida | 2800.75 | 33 Jalan Labuan, Labuan | 87000 | Labuan (Federal Territory) | default.png
+C16 | wenbin | 716.58 | 33 Jalan Labuan, Labuan | 87000 | Labuan (Federal Territory) | default.png
+C17 | Machi | 0.00 |  |  |  | default.png

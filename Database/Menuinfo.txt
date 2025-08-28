@@ -1,0 +1,24 @@
+F1 | Nasi Lemak Ayam Rendang | Malaysia’s national dish with fragrant coconut rice, sambal, boiled egg, peanuts, anchovies, and tender rendang chicken | 12.9 | Available | nasiLemak.jpg | V22
+F2 | Roti Canai with Mutton Curry | Fluffy, crispy flatbread paired with rich and aromatic mutton curry | 14.0 | Not Available | rotiCanaiMutton.png | V22
+F3 | Mee Rebus | Noodles in a sweet-spicy gravy with boiled egg and fried tofu | 8.0 | Available | meeRebus.jpg | V22
+F4 | Penang Asam Laksa | Tamarind-based noodle soup with shredded mackerel, cucumber, mint, and chili paste | 13.0 | Available | laksaPenang.jpg | V22
+F5 | Cucur Udang | Deep-fried fritters made from flour, shrimp, and spice, served with a sweet chili dipping sauce, popular as a snack | 12.0 | Available | cucurUdang.jpg | V22
+F6 | Nasi Kandar | Rice with a selection of curries and meats, including chicken, beef, and squid | 15.0 | Available | nasiKandar.jpg | V22
+F7 | Pulut Inti | Sticky rice wrapped in banana leaves, topped with sweet coconut filling. A traditional Malay snack, often enjoyed during festive occasions | 10.0 | Available | pulutInti.jpg | V22
+F8 | Cendol | Shaved ice dessert with coconut milk, palm sugar syrup, and green jelly | 6.0 | Available | cendol.jpg | V22
+F9 | Avocado and Salmon Sushi Burger | Sushi rice patty with grilled chicken, avocado, and wasabi mayo | 18.0 | Available | sushiBurger.jpg | V23
+F10 | Kimchi Tacos | Soft tacos with spicy kimchi, marinated beef, and sesame dressing | 12.0 | Available | kimchiTacos.jpg | V23
+F11 | Banh Mi with Chicken | Vietnamese baguette stuffed with grilled chicken, pickled carrots, and cilantro | 10.0 | Not Available | banhMiChicken.jpg | V23
+F12 | Truffle Fries | Crispy fries topped with truffle oil, parmesan, and garlic aioli | 8.0 | Available | truffleFries.jpg | V23
+F13 | Spicy Tuna Tacos | Soft shell tacos filled with spicy tuna, avocado, and sriracha mayo | 14.0 | Available | spicyTunaTacos.jpg | V23
+F14 | Sashimi Salad | Fresh sashimi served with a mixed greens salad and sesame dressing | 16.0 | Not Available | sashimiSalad.jpg | V23
+F15 | Sushirrito | Sushi rolled into a large burrito with tuna, avocado, and cucumber | 15.0 | Available | sushirrito.jpg | V23
+F16 | Boba Milk Tea | Freshly brewed milk tea with chewy boba pearls | 5.0 | Available | bobaMilkTea.jpg | V23
+F17 | Cheeseburger with Fries | Beef patty with cheddar cheese, lettuce, tomato, and crispy fries | 14.0 | Available | cheeseburgerFries.jpg | V24
+F18 | Chicken Caesar Salad | Grilled chicken breast on a bed of romaine lettuce with Caesar dressing | 12.0 | Available | chickenCaesarSalad.jpg | V24
+F19 | Fish and Chips | Deep-fried fish fillet served with crispy fries and tartar sauce | 16.0 | Not Available | fishAndChips.jpg | V24
+F20 | Beef Stew with Mashed Potatoes | Slow-cooked beef stew served with creamy mashed potatoes | 18.0 | Available | beefStewMashedPotatoes.jpg | V24
+F21 | Hot Dog with Sauerkraut | Grilled sausage in a bun topped with sauerkraut and mustard | 8.0 | Available | hotDogSauerkraut.jpg | V24
+F22 | Classic BLT Sandwich | Bacon, lettuce, and tomato on toasted bread | 7.0 | Available | bltSandwich.jpg | V24
+F23 | Cheddar Bacon Mac and Cheese | Creamy mac and cheese with a golden crust | 10.0 | Not Available | macAndCheese.jpg | V24
+F24 | Apple Pie | Traditional baked apple pie served with vanilla ice cream | 6.0 | Available | applePie.jpg | V24
